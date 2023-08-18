@@ -7,23 +7,15 @@ div {
     display: flex;
     flex-flow: row wrap;
 }
+.container{
+    width: 100%;
+    display: flex;
+}
 
 #played-with {
     width: 25%;
 }
 
 #standings {
-    width: 72%;
-}
-
-#last-results {
-    width: 99%;
-}
-
-#progression-chart {
-    width: 99%;
-}
-
-#complete-results {
-    width: 99%;
+    width: 75%;
 }
