@@ -1,0 +1,29 @@
+div {
+    border-color: black;
+    border: 5px solid;
+}
+
+#main-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#played-with {
+    width: 25%;
+}
+
+#standings {
+    width: 72%;
+}
+
+#last-results {
+    width: 99%;
+}
+
+#progression-chart {
+    width: 99%;
+}
+
+#complete-results {
+    width: 99%;
+}
